@@ -85,6 +85,16 @@ http://192.168.1.1
 
 ---
 
+## 🙏 Credits & Thanks
+
+Special thanks and credit to the original project:
+
+https://github.com/tesa-klebeband/RTL8720dn-Deauther
+
+This project was inspired by and built upon the work of the above repository.
+
+---
+
 ## 📌 Notes
 
 - Ensure you are using the correct board configuration.
