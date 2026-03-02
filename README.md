@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/Ameba-AIoT/ameba-arduino-d/master/Arduino_pack
 
 ### 4️⃣ Upload the Code
 
-1. Clone this repository or download the `.ino` file.
+1. Clone this repository or download the zip file.
 2. Open the `WiFi-Deauther-Pro.ino` file in **Arduino IDE**.
 3. Select the correct board:
 
