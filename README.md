@@ -5,6 +5,8 @@ WiFi-Deauther-BW16 (RTL8720DN) Works Both For 2.4Ghz &amp; 5Ghz WiFi Networks De
 
 [![alt text](https://img.youtube.com/vi/hwuR_K_6Yck/maxresdefault.jpg)](https://youtu.be/hwuR_K_6Yck)
 
+[![alt text](https://img.youtube.com/vi/va5k8b8TNzs/maxresdefault.jpg)](https://youtu.be/va5k8b8TNzs)
+
 
 ---
 
