@@ -91,17 +91,6 @@ http://192.168.1.1
 
 > ⚠️ Only test on networks you are authorized to audit.
 
----
-
-## 🙏 Credits & Thanks
-
-Special thanks and credit to the original project:
-
-https://github.com/tesa-klebeband/RTL8720dn-Deauther
-
-This project was inspired by and built upon the work of the above repository.
-
----
 
 ## 📌 Notes
 
@@ -110,7 +99,19 @@ This project was inspired by and built upon the work of the above repository.
 - Testing should be performed in an isolated lab environment.
 
 ---
+---
 
+## 🙏 Credits & Thanks
+
+Special thanks and credit to the original projects:
+
+https://github.com/tesa-klebeband/RTL8720dn-Deauther
+
+https://github.com/Seeed-Studio/ambd_flash_tool
+
+This project was inspired by and built upon the work of the above repository.
+
+---
 ## ⚠️ DISCLAIMER
 
 This tool has been developed **strictly for educational and authorized security testing purposes only**.
