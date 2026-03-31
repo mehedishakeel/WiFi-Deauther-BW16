@@ -79,8 +79,6 @@ http://192.168.1.1
 
 ---
 
-![WiFi Deauther BW16 UI](/images/UI.png)
-
 ### 2️⃣ Web Interface
 
 #### 📡 Deauthentication Section
