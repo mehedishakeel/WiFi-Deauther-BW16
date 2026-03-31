@@ -97,7 +97,6 @@ http://192.168.1.1
 - Testing should be performed in an isolated lab environment.
 
 ---
----
 
 ## 🙏 Credits & Thanks
 
